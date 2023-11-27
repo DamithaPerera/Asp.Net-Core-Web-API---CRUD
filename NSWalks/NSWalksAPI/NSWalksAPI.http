@@ -1,0 +1,6 @@
+@NSWalksAPI_HostAddress = http://localhost:5168
+
+GET {{NSWalksAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
